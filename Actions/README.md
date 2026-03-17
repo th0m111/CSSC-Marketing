@@ -15,27 +15,21 @@
 
 ### Trinity Action Items
 
-| Item | Person(s) in Charge | Due By |
-| - | - | - |
-| | | |
-| | | |
-| | | |
+| Item | Due By |
+| - | - |
+| Heal | Whenever Queen! |
+
 
 ### Lav Action Items
 
-| Item | Person(s) in Charge | Due By |
-| - | - | - |
-| | | |
-| | | |
-| | | |
+| Item | Due By |
+| - | - |
+| TBD | TBD |
+
 
 ### Thomi Action Items
 
-| Item | Person(s) in Charge | Due By |
-| - | - | - |
-| Content Cr| | |
-| | | |
-| | | |
-
-## Conclusion
+| Item | Due By |
+| - | - |
+| Short-Form Content Creation (3) | 28/3 |
 

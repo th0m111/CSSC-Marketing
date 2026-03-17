@@ -6,28 +6,31 @@
 - Thomi
 
 
-### Undelegated Action Items:  
+## Action Items
+
+
+### Undelegated  
 
 | Item | Due By |
 | - | - |
 | Add CSSC sign on door | 28/3 |
 | Add CSEE building hallway signage for directions to the clubroom | 28/3 |
 
-### Trinity Action Items
+### Trinity
 
 | Item | Due By |
 | - | - |
 | Heal | Whenever Queen! |
 
 
-### Lav Action Items
+## Lav
 
 | Item | Due By |
 | - | - |
 | TBD | TBD |
 
 
-### Thomi Action Items
+## Thomi
 
 | Item | Due By |
 | - | - |

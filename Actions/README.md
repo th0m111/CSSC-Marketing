@@ -22,13 +22,11 @@
 | - | - |
 | Heal | Whenever Queen! |
 
-
 ## Lav
 
 | Item | Due By |
 | - | - |
 | TBD | TBD |
-
 
 ## Thomi
 

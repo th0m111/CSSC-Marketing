@@ -1,7 +1,8 @@
-# CSSC Meeting Minutes 2026 Template
+# This template was created using the publicly available markdown found on the CSSC github.
+
+# CSSC-Marketing Meeting Minutes 2026 Template
 
 ## Administration
-Sorry Ben, I stole your template
 
 ### Meeting Start:  
 

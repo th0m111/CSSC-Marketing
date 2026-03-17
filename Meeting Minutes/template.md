@@ -1,4 +1,4 @@
-# This template was created using the publicly available markdown found on the CSSC github.
+### This template was created using the publicly available markdown found on the CSSC github.
 
 # CSSC-Marketing Meeting Minutes 2026 Template
 
